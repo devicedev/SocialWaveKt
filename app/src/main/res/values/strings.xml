@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">SocialWave</string>
+
+    <!--Buttons-->
+    <string name="sing_up">Sign Up</string>
+    <string name="forget_pwd">Forget Password</string>
+    <string name="login">Login</string>
+    <string name="birthday">Birthday:</string>
+    <string name="gender">Gender:</string>
+    <string name="back_button">Back</string>
+    <string name="edit_button">Edit</string>
+    <string name="logout_button">Logout</string>
+
+    <string name="select_action">Select Action</string>
+    <string name="select_gallery">Select photo from gallery</string>
+    <string name="select_camera">Capture photo from camera</string>
+
+
+    <!-- Hints -->
+    <string name="email_hint">Enter email...</string>
+    <string name="password_hint">Enter password...</string>
+    <string name="name_hint">Enter name...</string>
+    <string name="male_radio_button">Male</string>
+    <string name="female_radio_button">Female</string>
+    <string name="birthday_hint">Enter birthday...</string>
+
+
+    <!--Successes-->
+
+    <string name="success">Success</string>
+    <string name="successful_login">Successful login</string>
+    <string name="successful_register">Successful register</string>
+    <string name="successful_refresh">Successful refresh</string>
+    <string name="successful_edit">Successful edit</string>
+
+
+    <!--Errors-->
+    <string name="err_no_network">No network</string>
+    <string name="err_conversion_error">Conversion error</string>
+    <string name="err_internal_server_error">Internal server error</string>
+    <string name="err_failed_take_photo">Failed to take photo</string>
+    <string name="err_failed_fetch_photo">Failed to fetch photo</string>
+    <string name="err_permission_denied">Permission denied</string>
+
+
+    <!--Validation-->
+    <string name="val_error_email_password_invalid">Email or password is incorrect!</string>
+
+    <string name="val_error_email_required">The email field is required!</string>
+    <string name="val_error_email_valid">The email address is not valid!</string>
+
+    <string name="val_error_password_required">The password field is required!</string>
+    <string name="val_error_password_digit">The password must contain at least 1 digit!</string>
+    <string name="val_error_password_lower">The password must contain at least 1 lower case character!</string>
+    <string name="val_error_password_upper">The password must contain at least 1 upper case character!</string>
+    <string name="val_error_password_min">The password must contain at least %d characters!</string>
+    <string name="val_error_password_max">The password must not be longer than %d characters!</string>
+
+    <string name="val_error_name_required">The name field is required!</string>
+
+    <string name="val_error_birthday_required">The birthday field is required!</string>
+    <string name="val_error_birthday_invalid">Invalid birthday!</string>
+    <string name="val_error_birthday_min">You must be at least %d years old to register on our platform!</string>
+
+
+    <string name="val_error_gender_required">The gender field is required!</string>
+
+</resources>
